@@ -54,6 +54,7 @@ Consistent practice. Continuous improvement.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -86,6 +87,7 @@ Consistent practice. Continuous improvement.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
