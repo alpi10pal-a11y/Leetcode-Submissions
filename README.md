@@ -81,6 +81,7 @@ Consistent practice. Continuous improvement.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
