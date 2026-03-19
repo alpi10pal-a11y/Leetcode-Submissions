@@ -54,6 +54,7 @@ Consistent practice. Continuous improvement.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
@@ -64,6 +65,7 @@ Consistent practice. Continuous improvement.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -75,6 +77,7 @@ Consistent practice. Continuous improvement.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -153,4 +156,12 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
