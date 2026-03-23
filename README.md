@@ -64,6 +64,7 @@ Consistent practice. Continuous improvement.
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -73,6 +74,7 @@ Consistent practice. Continuous improvement.
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ Consistent practice. Continuous improvement.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
