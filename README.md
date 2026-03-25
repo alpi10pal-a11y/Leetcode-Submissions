@@ -129,6 +129,7 @@ Consistent practice. Continuous improvement.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -220,4 +221,8 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
