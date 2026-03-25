@@ -216,4 +216,8 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
