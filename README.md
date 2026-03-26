@@ -57,6 +57,7 @@ Consistent practice. Continuous improvement.
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0162-find-peak-element/) | Medium |
@@ -129,6 +130,7 @@ Consistent practice. Continuous improvement.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
@@ -181,6 +183,7 @@ Consistent practice. Continuous improvement.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Stack
