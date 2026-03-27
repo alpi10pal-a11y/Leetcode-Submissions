@@ -134,6 +134,7 @@ Consistent practice. Continuous improvement.
 | [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0292-nim-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0292-nim-game/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -228,4 +229,12 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
