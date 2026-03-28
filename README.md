@@ -65,6 +65,7 @@ Consistent practice. Continuous improvement.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -102,6 +103,7 @@ Consistent practice. Continuous improvement.
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@ Consistent practice. Continuous improvement.
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -171,6 +174,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
@@ -189,6 +193,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
