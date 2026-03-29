@@ -59,6 +59,7 @@ Consistent practice. Continuous improvement.
 | [0046-permutations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0162-find-peak-element/) | Medium |
@@ -110,12 +111,14 @@ Consistent practice. Continuous improvement.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -152,6 +155,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
