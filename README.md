@@ -54,6 +54,7 @@ Consistent practice. Continuous improvement.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
@@ -96,6 +97,7 @@ Consistent practice. Continuous improvement.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
@@ -165,6 +167,7 @@ Consistent practice. Continuous improvement.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
