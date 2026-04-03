@@ -69,6 +69,7 @@ Consistent practice. Continuous improvement.
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -106,6 +107,7 @@ Consistent practice. Continuous improvement.
 | [0283-move-zeroes](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -115,6 +117,7 @@ Consistent practice. Continuous improvement.
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -124,6 +127,7 @@ Consistent practice. Continuous improvement.
 | [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -172,6 +176,7 @@ Consistent practice. Continuous improvement.
 | [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
