@@ -62,6 +62,7 @@ Consistent practice. Continuous improvement.
 | [0047-permutations-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0162-find-peak-element/) | Medium |
@@ -87,6 +88,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -244,6 +246,7 @@ Consistent practice. Continuous improvement.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
