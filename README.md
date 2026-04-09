@@ -74,6 +74,7 @@ Consistent practice. Continuous improvement.
 | [0303-range-sum-query-immutable](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -136,6 +137,7 @@ Consistent practice. Continuous improvement.
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
@@ -165,6 +167,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
