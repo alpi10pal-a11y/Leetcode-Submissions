@@ -289,10 +289,12 @@ Consistent practice. Continuous improvement.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0050-powx-n/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
