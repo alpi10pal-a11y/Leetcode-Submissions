@@ -83,6 +83,7 @@ Consistent practice. Continuous improvement.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -124,6 +125,7 @@ Consistent practice. Continuous improvement.
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ Consistent practice. Continuous improvement.
 | [0209-minimum-size-subarray-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
