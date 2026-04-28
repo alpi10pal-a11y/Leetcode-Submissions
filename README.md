@@ -90,6 +90,7 @@ Consistent practice. Continuous improvement.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -215,6 +216,7 @@ Consistent practice. Continuous improvement.
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -232,6 +234,7 @@ Consistent practice. Continuous improvement.
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -282,6 +285,7 @@ Consistent practice. Continuous improvement.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Stack
