@@ -99,6 +99,7 @@ Consistent practice. Continuous improvement.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -115,6 +116,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ Consistent practice. Continuous improvement.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ Consistent practice. Continuous improvement.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
