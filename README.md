@@ -76,6 +76,7 @@ Consistent practice. Continuous improvement.
 | [0303-range-sum-query-immutable](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
@@ -114,6 +115,7 @@ Consistent practice. Continuous improvement.
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -218,6 +220,7 @@ Consistent practice. Continuous improvement.
 | [0069-sqrtx](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0292-nim-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0292-nim-game/) | Easy |
+| [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
