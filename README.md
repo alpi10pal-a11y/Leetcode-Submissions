@@ -97,6 +97,7 @@ Consistent practice. Continuous improvement.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -376,6 +377,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
