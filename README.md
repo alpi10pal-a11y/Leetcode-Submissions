@@ -89,6 +89,7 @@ Consistent practice. Continuous improvement.
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
@@ -182,6 +183,7 @@ Consistent practice. Continuous improvement.
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -219,6 +221,7 @@ Consistent practice. Continuous improvement.
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
