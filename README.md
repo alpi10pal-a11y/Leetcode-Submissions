@@ -85,6 +85,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -277,6 +278,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
+| [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -284,6 +286,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
+| [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Binary Tree
