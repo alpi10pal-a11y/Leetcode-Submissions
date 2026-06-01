@@ -103,6 +103,7 @@ Consistent practice. Continuous improvement.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -150,6 +151,7 @@ Consistent practice. Continuous improvement.
 | [0055-jump-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -289,6 +291,7 @@ Consistent practice. Continuous improvement.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Tree
