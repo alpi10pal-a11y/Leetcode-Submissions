@@ -121,6 +121,7 @@ Consistent practice. Continuous improvement.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -153,6 +154,7 @@ Consistent practice. Continuous improvement.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Consistent practice. Continuous improvement.
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ Consistent practice. Continuous improvement.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +298,7 @@ Consistent practice. Continuous improvement.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
