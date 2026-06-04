@@ -146,6 +146,7 @@ Consistent practice. Continuous improvement.
 | [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +283,7 @@ Consistent practice. Continuous improvement.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -460,4 +462,8 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3161-block-placement-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
