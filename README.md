@@ -126,6 +126,7 @@ Consistent practice. Continuous improvement.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
@@ -161,6 +162,7 @@ Consistent practice. Continuous improvement.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
