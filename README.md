@@ -255,6 +255,7 @@ Consistent practice. Continuous improvement.
 | [3093-longest-common-suffix-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -465,6 +466,7 @@ Consistent practice. Continuous improvement.
 | [2161-partition-array-according-to-given-pivot](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
