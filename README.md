@@ -293,6 +293,7 @@ Consistent practice. Continuous improvement.
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0788-rotated-digits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
