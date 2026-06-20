@@ -96,6 +96,7 @@ Consistent practice. Continuous improvement.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1840-maximum-building-height](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -295,6 +296,7 @@ Consistent practice. Continuous improvement.
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -320,6 +322,7 @@ Consistent practice. Continuous improvement.
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
