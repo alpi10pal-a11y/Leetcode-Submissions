@@ -154,6 +154,7 @@ Consistent practice. Continuous improvement.
 | [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -284,6 +285,7 @@ Consistent practice. Continuous improvement.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
