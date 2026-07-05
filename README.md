@@ -85,6 +85,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
@@ -152,6 +153,7 @@ Consistent practice. Continuous improvement.
 | [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1871-jump-game-vii/) | Medium |
@@ -414,6 +416,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
