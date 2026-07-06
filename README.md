@@ -85,6 +85,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
@@ -340,6 +341,7 @@ Consistent practice. Continuous improvement.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
