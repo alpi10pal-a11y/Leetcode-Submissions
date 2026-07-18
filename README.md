@@ -322,6 +322,7 @@ Consistent practice. Continuous improvement.
 | [0292-nim-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0788-rotated-digits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -475,6 +476,7 @@ Consistent practice. Continuous improvement.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting
