@@ -85,6 +85,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
@@ -432,6 +433,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -519,6 +521,7 @@ Consistent practice. Continuous improvement.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
