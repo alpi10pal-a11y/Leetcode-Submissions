@@ -55,6 +55,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
@@ -192,6 +193,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
