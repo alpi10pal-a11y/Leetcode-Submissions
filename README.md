@@ -80,6 +80,7 @@ Consistent practice. Continuous improvement.
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
