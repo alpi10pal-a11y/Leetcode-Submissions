@@ -290,6 +290,7 @@ Consistent practice. Continuous improvement.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -521,6 +522,7 @@ Consistent practice. Continuous improvement.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
