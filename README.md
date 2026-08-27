@@ -195,6 +195,7 @@ Consistent practice. Continuous improvement.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +267,7 @@ Consistent practice. Continuous improvement.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -298,6 +300,7 @@ Consistent practice. Continuous improvement.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
@@ -510,6 +513,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -590,6 +594,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
