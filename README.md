@@ -80,6 +80,7 @@ Consistent practice. Continuous improvement.
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -256,6 +257,7 @@ Consistent practice. Continuous improvement.
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
