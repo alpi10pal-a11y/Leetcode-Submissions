@@ -90,6 +90,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1051-height-checker/) | Easy |
 | [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -389,6 +390,7 @@ Consistent practice. Continuous improvement.
 | [0645-set-mismatch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
@@ -613,6 +615,7 @@ Consistent practice. Continuous improvement.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -635,4 +638,8 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
