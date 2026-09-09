@@ -383,6 +383,7 @@ Consistent practice. Continuous improvement.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
