@@ -109,6 +109,7 @@ Consistent practice. Continuous improvement.
 | [1441-build-an-array-with-stack-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -181,6 +182,7 @@ Consistent practice. Continuous improvement.
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1340-jump-game-v/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -248,6 +250,7 @@ Consistent practice. Continuous improvement.
 | [0209-minimum-size-subarray-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
@@ -275,6 +278,7 @@ Consistent practice. Continuous improvement.
 | [1345-jump-game-iv](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -565,6 +569,7 @@ Consistent practice. Continuous improvement.
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
