@@ -372,6 +372,7 @@ Consistent practice. Continuous improvement.
 | [0836-rectangle-overlap](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1840-maximum-building-height/) | Hard |
 | [1927-sum-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
@@ -544,6 +545,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
