@@ -115,6 +115,7 @@ Consistent practice. Continuous improvement.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1840-maximum-building-height/) | Hard |
@@ -520,6 +521,7 @@ Consistent practice. Continuous improvement.
 | [0739-daily-temperatures](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -605,6 +607,7 @@ Consistent practice. Continuous improvement.
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -616,6 +619,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
