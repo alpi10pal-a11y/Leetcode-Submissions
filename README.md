@@ -159,6 +159,7 @@ Consistent practice. Continuous improvement.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -389,6 +390,7 @@ Consistent practice. Continuous improvement.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
