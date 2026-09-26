@@ -484,6 +484,7 @@ Consistent practice. Continuous improvement.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1622-fancy-sequence](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
@@ -525,6 +526,7 @@ Consistent practice. Continuous improvement.
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -627,6 +629,7 @@ Consistent practice. Continuous improvement.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
