@@ -306,6 +306,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
@@ -527,6 +528,7 @@ Consistent practice. Continuous improvement.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -713,6 +715,7 @@ Consistent practice. Continuous improvement.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
