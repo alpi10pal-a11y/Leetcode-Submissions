@@ -179,6 +179,7 @@ Consistent practice. Continuous improvement.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
