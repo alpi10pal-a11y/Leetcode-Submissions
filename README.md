@@ -293,6 +293,7 @@ Consistent practice. Continuous improvement.
 | [0219-contains-duplicate-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
@@ -332,6 +333,7 @@ Consistent practice. Continuous improvement.
 | [0290-word-pattern](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
@@ -440,6 +442,7 @@ Consistent practice. Continuous improvement.
 | [0215-kth-largest-element-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0389-find-the-difference](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
@@ -602,6 +605,7 @@ Consistent practice. Continuous improvement.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
