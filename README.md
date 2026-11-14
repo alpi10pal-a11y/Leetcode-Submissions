@@ -163,6 +163,7 @@ Consistent practice. Continuous improvement.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -392,6 +393,7 @@ Consistent practice. Continuous improvement.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3152-special-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3152-special-array-ii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -643,6 +645,7 @@ Consistent practice. Continuous improvement.
 | [1871-jump-game-vii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
