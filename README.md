@@ -98,6 +98,7 @@ Consistent practice. Continuous improvement.
 | [0977-squares-of-a-sorted-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1051-height-checker/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -300,6 +301,7 @@ Consistent practice. Continuous improvement.
 | [0560-subarray-sum-equals-k](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -342,6 +344,7 @@ Consistent practice. Continuous improvement.
 | [0796-rotate-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -621,6 +624,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
