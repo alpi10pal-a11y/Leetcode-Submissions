@@ -356,6 +356,7 @@ Consistent practice. Continuous improvement.
 | [1927-sum-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
