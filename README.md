@@ -164,6 +164,7 @@ Consistent practice. Continuous improvement.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -427,6 +428,7 @@ Consistent practice. Continuous improvement.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -647,6 +649,7 @@ Consistent practice. Continuous improvement.
 | [2090-k-radius-subarray-averages](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -720,6 +723,7 @@ Consistent practice. Continuous improvement.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -748,6 +752,7 @@ Consistent practice. Continuous improvement.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
