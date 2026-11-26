@@ -428,6 +428,7 @@ Consistent practice. Continuous improvement.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -684,6 +685,7 @@ Consistent practice. Continuous improvement.
 | [2161-partition-array-according-to-given-pivot](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3360-stone-removal-game](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Queue
