@@ -185,6 +185,7 @@ Consistent practice. Continuous improvement.
 | [3838-weighted-word-mapping](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ Consistent practice. Continuous improvement.
 | [3742-maximum-path-score-in-a-grid](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ Consistent practice. Continuous improvement.
 | [3691-maximum-total-subarray-value-ii](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alpi10pal-a11y/Leetcode-Submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
